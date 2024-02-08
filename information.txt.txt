@@ -1,0 +1,190 @@
+----- Page Home -----
+
+//Menu de Navigation
+
+Medio
+
+Home
+Services
+Portfolio
+About
+Contact
+
+//Header section
+
+We are creative agency by Untree.co
+See Portfolio
+Watch our video
+
+//section A -----------------------------
+
+Collaborate
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Learn more
+
+-----------------------------------------
+Connect
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Learn more
+
+-----------------------------------------
+Grow
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Learn more
+
+//section portfolio -----------------------------
+
+AWESOME PORTFOLIO
+Our Portfolio
+
+Bonzai tree
+WEB APPLICATION
+
+Simple Woman
+BANDING
+
+Fruits
+WEBSITE
+
+Design Material
+WEB APPLICATION
+
+Handy Food
+BANDING
+
+Cat With Cup
+WEBSITE
+
+//section portfolio -----------------------------
+
+WE LOVE TO DESIGN
+
+Create Outstanding Website
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+
+Get Started
+
+//section services -----------------------------
+
+OUR SERVICES
+What we can do for you?
+
+Web Design
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+-----------------------------------------
+
+Option
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+-----------------------------------------
+
+Settings
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+-----------------------------------------
+
+Settings
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+-----------------------------------------
+
+Writing
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+-----------------------------------------
+
+Mobile Apps
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.
+
+Learn more
+
+//section testimonials -----------------------------
+
+TESTIMONIALS
+What's Our Client Think...
+
+”
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum consequuntur, iure quidem officiis adipisci, error odit omnis consequatur doloremque nobis. Quam vitae omnis perferendis excepturi?
+
+Jon Smith
+CEO, Co-Founder XYZ Inc.
+
+//section testimonials -----------------------------
+
+OTHER INTERESTS
+You May Also be Interested
+
+Digital Advertising
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum consequuntur, iure quidem officiis adipisci
+
+Find out more
+-----------------------------------------
+
+Content Creation
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum consequuntur, iure quidem officiis adipisci
+
+Find out more
+-----------------------------------------
+
+Time and Project Mgt.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum consequuntur, iure quidem officiis adipisci
+
+Find out more
+
+//section newsletter -----------------------------
+
+Subscribe to Newsletter
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Qui, exercitationem!
+
+Your name - Your email - Subscribe
+
+//section footer -----------------------------
+
+CONTACT
+43 Raymouth Rd. Baltemoer, London 3910
++1(123)-456-7890
++1(123)-456-7890
+info@mydomain.com
+-----------------------------------------
+
+SOURCES
+About us
+Services
+Vision
+Mission
+Terms
+Privacy
+-----------------------------------------
+
+LINKS
+Our Vision
+About us
+Contact us
+logo Insta - logo Twitter - logo Facebook - logo linkedin - logo pinterest - logo Dribbble
+
+Copyright ©2024. All Rights Reserved. — Designed with love by Untree.co
+
+

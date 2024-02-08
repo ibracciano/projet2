@@ -1,0 +1,23 @@
+//polices utilisées
+
+H1 : Playfair Display
+Autres : Lato
+
+:root{
+--gris-clair : #F2F2F2;
+--gris-fonce : #BDC4CA;
+--noir-fonce : #0D0D0D;}
+
+<i class="ri-briefcase-3-line"></i> // bag
+<i class="ri-command-fill"></i> // command
+<i class="ri-home-6-line"></i> home
+<i class="ri-quill-pen-line"></i> // plume
+<i class="ri-cpu-line"></i> cpu
+<i class="ri-article-line"></i> article
+
+<i class="ri-instagram-line"></i> instagram
+<i class="ri-twitter-x-line"></i> twitter
+<i class="ri-facebook-fill"></i> facebook
+<i class="ri-pinterest-line"></i> pinterest
+<i class="ri-linkedin-fill"></i> Linkedin
+<i class="ri-dribbble-line"></i> dribble
